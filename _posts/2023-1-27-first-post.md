@@ -5,7 +5,7 @@ tags: first ml overview
 categories: demo
 ---
 
-## Overview of ML
+## Submission Details
 
 For Portfolio Setup Assignment / "Portfolio Assignment: Getting Started"
 
