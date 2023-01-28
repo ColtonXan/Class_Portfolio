@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Colton's CS4375 Portfolio
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Colton Townsend
+  email: cxt180021@utdallas.edu
+description: "My blog."
 
 # Build settings
 remote_theme: jekyll/minima
