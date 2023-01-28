@@ -1,2 +1,3 @@
+# Link to Portfolio Home: [Link](https://coltonxan.github.io/Class_Portfolio/)    
 # Assignment 1 : Portfolio Setup    
-**Link to Portfolio Home: [Link](https://coltonxan.github.io/Class_Portfolio/)**    
+Page Link: [Link](https://coltonxan.github.io/Class_Portfolio/demo/2023/01/27/first-post.html)    
