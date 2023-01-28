@@ -1,2 +1,2 @@
 # Hello :)
-This is a link [title]([https://www.example.com](https://coltonxan.github.io/Class_Portfolio/)
+This is a link [title]([https://coltonxan.github.io/Class_Portfolio/])
