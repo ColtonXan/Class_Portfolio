@@ -1,9 +1,17 @@
-title: Your awesome title
+# Site settings
+title: Great New Blog Title
 author:
-  name: GitHub User
+  name: Evan Will
   email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 
-theme: minima
+# Build settings
+remote_theme: jekyll/minima
+
+---
+# a comment 
+example_key: example value
+---
 
 exclude:
 - README.md
