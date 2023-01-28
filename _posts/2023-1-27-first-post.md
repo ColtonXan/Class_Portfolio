@@ -7,8 +7,8 @@ categories: demo
 
 ## Submission Details
 
-Assignment required creation of a github portfolio as well as the PDF attached
+Assignment required creation of a github portfolio as well as the PDF attached.
 
-For Portfolio Setup Assignment / "Portfolio Assignment: Getting Started"
+For Portfolio Setup Assignment / "Portfolio Assignment: Getting Started".
 
 PDF Link: [Overview of ML](https://coltonxan.github.io/Class_Portfolio/Overview_of_ML.pdf)
