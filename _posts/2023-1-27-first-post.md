@@ -9,4 +9,4 @@ categories: demo
 
 For Portfolio Setup Assignment / "Portfolio Assignment: Getting Started"
 
-PDF Link: [Overview of ML](https://coltonxan.github.io/Class_Portfolio/Overview_of_ML.pdf).
+PDF Link: [Overview of ML](https://coltonxan.github.io/Class_Portfolio/Overview_of_ML.pdf)
