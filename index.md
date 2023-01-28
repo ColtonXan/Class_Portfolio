@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: Home
+layout: default
 ---
 
 Hello, Minima!
