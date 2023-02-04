@@ -7,9 +7,9 @@ categories: demo
 
 ## Submission Details
 
-Assignment required creation implementation of equivalent R functions in C++.
+Assignment required creation of equivalent R functions in C++.
 
-Assignment also required creation of a short document describing the output and the purpose of the assignment.
+Assignment also required creation of a short document describing the output and it's significance.
 
 PDF Link: [Data Exploration](https://coltonxan.github.io/Class_Portfolio/Data_Exploration.pdf)
 
