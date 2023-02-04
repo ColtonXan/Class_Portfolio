@@ -2,7 +2,15 @@
  * Author: Colton Townsend / cxt180021
  * Date: Created 2/3/2023
  * Procedures:
- * main - 
+ * main - Pasted from the data exploration doc. It populates two vectors using Boston.csv and calls functions like printstats and covar.
+ * printstats - Aggregate procedure to call sumVector, meanVector, medianVector, and rangeVector.
+ * printVector - Debug procedure to print the whole vector.
+ * sumVector - Returns sum of a vector.
+ * meanVector - Returns mean of a vector.
+ * medianVector - Returns median of a vector.
+ * range - PRINTS range of a vector. (This is because range has a min and a max, I could have made two methods to return them seperately but ¯\_(ツ)_/¯ too late!)
+ * covar - Returns covariance of two vectors.
+ * cor - Returns correlation of two vectors.
  */
 #include <iostream>
 #include <string>
