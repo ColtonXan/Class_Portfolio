@@ -7,9 +7,9 @@ categories: demo
 
 ## Submission Details
 
-Assignment required creation of two Rmd notebooks called "Regression" and "Classification" and several tasks completed per notebook.
+Assignment required creation of two Rmd notebooks named "Regression" and "Classification" and several tasks completed per notebook.
 
-Assignment also required creation of PDFs of these notebooks via Knitting.
+Assignment also required creation of two PDFs of these notebooks via Knitting.
 
 Regression PDF Link: [Regression](https://coltonxan.github.io/Class_Portfolio/Regression.pdf)
 
