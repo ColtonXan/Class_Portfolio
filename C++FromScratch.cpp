@@ -42,7 +42,7 @@ std::vector<std::vector<double>> read_csv(std::string filename, int observationl
 					try{
 						row.push_back(stod(cell));
 					} catch (const std::invalid_argument& e) {
-						std::cout << "Invalid argument caught: " << e.what() << std::endl; // fires off if a non-numeric cell interrupts the function
+						std::cout << "Invalid argument caught: " << e.what() << std::endl; // fires off if a non-numeric cell interrupts the procedure
 						row.clear(); // in such case, clear the row and try to continue
 						break;
 					}
