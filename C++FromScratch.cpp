@@ -1,4 +1,4 @@
-/* Filename: VectorStuff.cpp
+/* Filename: C++FromScratch.cpp
  * Author: Colton Townsend / cxt180021
  * Date: Created 3/2/2023
  * Procedures:
@@ -8,7 +8,11 @@
  * sum - Returns product of all cells in a vector.
  * sigmoid - Returns sigmoid of the double.
  * accuracy - Returns the percent of rows that are equal between two vectors.
- * main - 
+ * accuracy - Returns the accuracy of the right vector (predicted) versus the left vector (true).
+ * sensitivity - Returns the sensitivity of the right vector (predicted) versus the left vector (true).
+ * specificity - Returns the specificity of the right vector (predicted) versus the left vector (true).
+ * naive_bayes - Performs Naive Bayes and the rest of part B. Takes in a matrix of features and a vector of the target.
+ * main - Performs logistic regression and naive bayes by calling on the above procedures.
  */
  
 #include <iostream>
