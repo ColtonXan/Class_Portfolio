@@ -1,6 +1,6 @@
 ---
 layout: post
-title: searching for similarity
+title: Searching for Similarity
 tags: logistic regression knn decision trees clustering dimensionality reduction pca lda group
 categories: demo
 ---
@@ -11,4 +11,4 @@ Group assignment required everyone to assume roles to split the work. Work mostl
 
 My assignment was to host meetings for everyone to present their work and write a 1-2 page narrative document.
 
-PDF Link: [Searching for Similarity](https://coltonxan.github.io/Class_Portfolio/Group5_CS4375.004_SearchingforSimilarity.cpp)
+PDF Link: [Searching for Similarity](https://coltonxan.github.io/Class_Portfolio/Group5_CS4375.004_SearchingforSimilarity.pdf)
