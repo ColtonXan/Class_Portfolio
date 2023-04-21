@@ -13,7 +13,7 @@ For "Image Classification with DL".
 
 PDF Link: [Image Classification with DL](https://coltonxan.github.io/Class_Portfolio/Image_Classification_with_DL.pdf)
 
-Conclusion from PDF: 
+Conclusion from PDF:    
  The Confusion Matrix suggests that transfer learning performs better than CNN. In the couple of times that I built the model,
  the confusion matrix performed better than CNN every time. In other words, transfer learning predicts correctly more often
  than CNN. This makes sense because transfer learning reuses is great with limited data and imbalanced class problems. In this
