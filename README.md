@@ -5,3 +5,4 @@
 **Assignment 4 : [C++ Algorithms From Scratch](https://coltonxan.github.io/Class_Portfolio/demo/2023/03/04/c++_algorithms_from_scratch.html)**    
 **Assignment 5 : [Searching for Similarity](https://coltonxan.github.io/Class_Portfolio/demo/2023/03/24/searching_for_similarity.html)**    
 **Assignment 6 : [ML with sklearn](https://coltonxan.github.io/Class_Portfolio/demo/2023/04/06/ml-with-sklearn.html)**    
+**Assignment 7 : [Image Classification with DL](https://coltonxan.github.io/Class_Portfolio/demo/2023/04/21/image-classification-with-dl.html)**    
