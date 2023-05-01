@@ -6,3 +6,4 @@
 **Assignment 5 : [Searching for Similarity](https://coltonxan.github.io/Class_Portfolio/demo/2023/03/24/searching_for_similarity.html)**    
 **Assignment 6 : [ML with sklearn](https://coltonxan.github.io/Class_Portfolio/demo/2023/04/06/ml-with-sklearn.html)**    
 **Assignment 7 : [Image Classification with DL](https://coltonxan.github.io/Class_Portfolio/demo/2023/04/21/Image-Classification-with-DL.html)**    
+**Assignment 8 : [Wrapping up the Portfolio](https://coltonxan.github.io/Class_Portfolio/demo/2023/04/30/resume-and-conclusion.html)**  
