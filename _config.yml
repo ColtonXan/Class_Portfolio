@@ -4,7 +4,7 @@ author:
   name: Colton Townsend
   email: cxt180021@utdallas.edu
 description: "My blog."
-twitter_username: <mine>
+permalink: /about/
 
 # Build settings
 remote_theme: jekyll/minima
