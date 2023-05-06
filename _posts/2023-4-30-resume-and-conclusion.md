@@ -7,7 +7,7 @@ categories: demo
 
 ## Submission Details
 
-Machine learning is a good skill to have since awareness in it's potential is increasing. It's applicable to many different fields and professions, as well as an appealing skill to list in a resume. I already practice some machine learning via Azure Machine Learning for my current small job; we're exporting data from remote servers and consolidating it to a container that will form a model over analytic data. We'll use this model to determine potential marketing strategies or analyze user engagement. So far, I'm content with what I have acquired from this course and I hope to take what I've learned into my future occupation.    
+Machine learning is a good skill to have since awareness in it's potential is increasing. It's applicable to many different fields and professions, as well as an appealing skill to list in a resume. I already practice some machine learning via Azure Machine Learning for my current small job; we're exporting data from remote servers and consolidating it to a container that will form a model over analytic data. We'll use this model to determine potential marketing strategies or analyze user engagement. I'm happy with what I have acquired from this course and I hope to take what I've learned into my future occupation.    
 
 Technical Skills: C-Based Languages, Java, JavaScript, Python, R, HTML, CSS    
 
