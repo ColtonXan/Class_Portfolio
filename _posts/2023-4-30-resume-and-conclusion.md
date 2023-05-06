@@ -15,4 +15,4 @@ Soft Skills: Microsoft Office Proficiency, Presentation/Slideshow skills, limite
 
 For "Portfolio Assignment: Wrapping up the Portfolio"
 
-Doc Link: [Townsend Colton X Resume 2023](https://coltonxan.github.io/Class_Portfolio/Townsend-Colton-X-Resume-2023.docx)
+Resume in Docx Link: [Townsend Colton X Resume 2023](https://coltonxan.github.io/Class_Portfolio/Townsend-Colton-X-Resume-2023.docx)
